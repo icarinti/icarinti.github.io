@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icarinti.github.io/sitemap.icarinti.gz
+Sitemap: https://icarinti.github.io/app/sitemap.icarinti.gz
+Sitemap: https://icarinti.github.io/assets/sitemap.icarinti.gz
+Sitemap: https://icarinti.github.io/css/sitemap.icarinti.gz
+Sitemap: https://icarinti.github.io/data/sitemap.icarinti.gz
+Sitemap: https://icarinti.github.io/includes/sitemap.icarinti.gz
+Sitemap: https://icarinti.github.io/item/sitemap.icarinti.gz
+Sitemap: https://icarinti.github.io/src/sitemap.icarinti.gz
